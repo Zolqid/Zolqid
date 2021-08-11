@@ -1,16 +1,15 @@
-### Hi there 👋
+# 👋 Hi World
 
-<!--
-**Zolqid/Zolqid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Tolga, a 17 years old discord bot developer. I live in Erzurum, a district of Turkey. I love tinkering with software.
 
-Here are some ideas to get you started:
+## 🌐 Discord Activity
+<a href="https://discord.com/users/752882776985960500">
+    <p align="center"> 
+        <img src="https://lanyard-profile-readme.vercel.app/api/752882776985960500" />
+    </p>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Github Stats
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=zolqid&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9&count_private=true&include_all_commits=true" />
