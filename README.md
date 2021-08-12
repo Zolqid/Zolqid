@@ -22,6 +22,10 @@ Coding Discord bot is among my hobbies.
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zolqid&show_icons=true&theme=dark&line_height=21" alt="legend-js' github stats"/>
 
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Zolqid" alt="yus" /> 
+</p>
+
 ---
 
 <p align='center'> <a href="https://discord.gg/uYNb5dy7jC">
