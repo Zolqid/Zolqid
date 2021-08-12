@@ -3,7 +3,7 @@
 Hi! I'm Tolga, a 17 years old discord bot developer. 
 
 
-<p align="center"> <img src="https://discord.c99.nl/widget/theme-1/752882776985960500.png" alt="Discord" /> </p>
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-2/752882776985960500.png" alt="Discord" /> </p>
 
 
 ### 🎈 Briefly I &nbsp;
