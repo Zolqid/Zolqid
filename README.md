@@ -1,3 +1,4 @@
+---
 ### 👋 Hi Guys!
 Hi! I'm Tolga, a 17 years old discord bot developer. 
 
@@ -15,11 +16,12 @@ Coding Discord bot is among my hobbies.
 <br />
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zolqid&show_icons=true&layout=compact&hide_border=true&theme=dark" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zolqid&show_icons=true&theme=dark&line_height=21" alt="legend-js' github stats"/>
 
 ---
 
 <p align='center'> <a href="https://discord.gg/uYNb5dy7jC">
-<img align="center" alt="Discord Server" width="64px"src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<img align="center" alt="Discord Server" width="64px"src="https://i.dlpng.com/static/png/5323399-transparent-discord-icon-227131-free-icons-library-discord-icon-transparent-500_500_preview.png" >
+<a href="https://github.com/Zolqid">
+<img align="center" alt="Github" width="64px"src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" />
 </a> </p>
