@@ -3,7 +3,11 @@
 Hi! I'm Tolga, a 17 years old discord bot developer. 
 
 
-<p align="center"> <img src="https://discord.c99.nl/widget/theme-2/752882776985960500.png" alt="Discord" /> </p>
+<a href="https://discord.com/users/752882776985960500">
+    <p align="center"> 
+        <img src="https://lanyard-profile-readme.vercel.app/api/752882776985960500" />
+    </p>
+</a>
 
 
 ### 🎈 Briefly I &nbsp;
