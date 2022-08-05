@@ -1,6 +1,6 @@
 ---
 ### 👋 Hi Guys!
-Hi! I'm Tolga, a 17 years old discord bot developer. 
+Hi! I'm Tolga, a 18 years old discord bot developer. 
 
 
 <a href="https://discord.com/users/752882776985960500">
