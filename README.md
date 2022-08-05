@@ -4,9 +4,8 @@ Hi! I'm Tolga, a 18 years old discord bot developer.
 
 ### 🎈 Briefly I &nbsp;
 Coding Discord bot is among my hobbies.
-- I live in Turkey. I am a 17 years old discord bot developer. I like to deal with software.
-- Want to check out my bot, PRoom? [Click](https://top.gg/bot/840207291402813470)
-- My goal is to save my life
+- I live in Turkey. I am a 18 years old discord bot developer. I like to deal with software.
+- Want to check out my team, Firedia? [Click](https://firedia.com
 
 
 <br />
