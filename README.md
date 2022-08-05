@@ -2,14 +2,6 @@
 ### 👋 Hi Guys!
 Hi! I'm Tolga, a 18 years old discord bot developer. 
 
-
-<a href="https://discord.com/users/752882776985960500">
-    <p align="center"> 
-        <img src="https://lanyard-profile-readme.vercel.app/api/752882776985960500" />
-    </p>
-</a>
-
-
 ### 🎈 Briefly I &nbsp;
 Coding Discord bot is among my hobbies.
 - I live in Turkey. I am a 17 years old discord bot developer. I like to deal with software.
