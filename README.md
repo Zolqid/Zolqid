@@ -2,10 +2,9 @@
 ### 👋 Hi Guys!
 Hi! I'm Tolga, a 20 years old discord bot developer. 
 
-<p>
-🔸 <a href="https://discord.com/users/752882776985960500">Discord</a>
-🔸 <a href="https://firedia.com">Team: Firedia</a>
-</p>
+
+<a href="https://discord.com/users/752882776985960500">Discord</a>
+<a href="https://firedia.com">Team: Firedia</a>
 
 <br />
 
