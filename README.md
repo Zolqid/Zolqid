@@ -20,7 +20,7 @@ Coding Discord bot is among my hobbies.
 ---
 
 <p align='center'> <a href="https://discord.gg/uYNb5dy7jC">
-<img align="center" alt="Discord Server" width="64px"src="https://i.dlpng.com/static/png/5323399-transparent-discord-icon-227131-free-icons-library-discord-icon-transparent-500_500_preview.png" >
+<img align="center" alt="Firedia" width="64px"src="https://cdn.discordapp.com/attachments/901833378955952129/1152598842978611210/adae1ea9caf9ad7a6c6ce4fdec65490d.png" >
 <a href="https://github.com/Zolqid">
 <img align="center" alt="Github" width="64px"src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" />
 </a> </p>
