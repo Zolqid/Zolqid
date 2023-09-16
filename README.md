@@ -2,8 +2,8 @@
 ### 👋 Hi Guys!
 Hi! I'm Tolga, a 20 years old discord bot developer. 
 
-🔸 [Discord](https://discord.com/users/752882776985960500)
-🔸 [Team: Firedia](https://firedia.com)
+- [Discord](https://discord.com/users/752882776985960500)
+- [Team: Firedia](https://firedia.com)
 
 <br />
 
