@@ -1,7 +1,7 @@
 ## 👋 Hi Guys
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Hi%2C+I'm+%7C+Zolqid!;Discord+Bot+Developer;Java+%7C+Node.js+%7C+JS+%7C+HTML%2FCSS;Always+learning+something+new!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Hi%2C+I'm+Zolqid!;Discord+Bot+Developer;Java+%7C+Node.js+%7C+JS+%7C+HTML%2FCSS;Always+learning+something+new!" alt="Typing SVG" />
 </p>
 
 ---
