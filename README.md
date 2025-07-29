@@ -47,11 +47,11 @@
   <a href="https://github.com/Zolqid">
     <img src="https://img.shields.io/badge/GitHub-Zolqid-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://discord.gg/UQZseCmRBN" style="margin-left:10px;">
     <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
-
 ---
 
 > 🧪 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
