@@ -52,7 +52,6 @@
     <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
----
 
 > 🧪 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
