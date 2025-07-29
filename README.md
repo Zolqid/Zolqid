@@ -60,9 +60,8 @@
 
 ## 🛠️ Pinned Projects
 
-```md
-[🔹 🛡️ zolEsle - It is a Discord account linking plugin.](https://github.com/Zolqid/zolEsle)
-```
+🔹[🛡️ zolEsle - It is a Discord account linking plugin.](https://github.com/Zolqid/zolEsle)
+
 
 ---
 
