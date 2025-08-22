@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-* 🧑‍💻 I'm **Tolga**, a 21-year-old developer focused on **Discord bots** and backend tools.
+* 🧑‍💻 I focused on **Discord bots** and backend tools.
 
 * 💡 I enjoy solving real-world problems with code.
 
